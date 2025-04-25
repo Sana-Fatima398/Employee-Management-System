@@ -1,0 +1,4 @@
+8090,Komal Kamran,23,IT,34000,2/3/2020
+3040,Shahid Kamal,50,HR,89000,2/7/2003
+1010,Sakina Shoaib,23,Accounting,90000,2/3/2021
+4500,Samra Malik,39,designing,90000,2/3/2024

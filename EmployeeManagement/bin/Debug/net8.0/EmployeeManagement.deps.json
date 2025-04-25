@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeeManagement/1.0.0": {
+        "dependencies": {
+          "EmployeeManagementBLL": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagement.dll": {}
+        }
+      },
+      "EmployeeManagementBLL/1.0.0": {
+        "dependencies": {
+          "EmployeeManagementDAL": "1.0.0",
+          "EmployeeManagementDTO": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagementBLL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EmployeeManagementDAL/1.0.0": {
+        "dependencies": {
+          "EmployeeManagementDTO": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagementDAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EmployeeManagementDTO/1.0.0": {
+        "runtime": {
+          "EmployeeManagementDTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagementBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagementDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagementDTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

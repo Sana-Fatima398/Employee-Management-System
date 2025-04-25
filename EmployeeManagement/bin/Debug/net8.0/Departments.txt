@@ -1,0 +1,4 @@
+11,Accounting,under Finance branch 
+12,IT,it technologies
+90,designing,designing of softwares
+15,HR,Human Resource
